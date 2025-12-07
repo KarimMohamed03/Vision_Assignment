@@ -1,7 +1,7 @@
 # Vision_Assignment
 Q1)
 cv2.waitKey(0)
-Waits forever for a key press.
+Waits forever for a key press. 
 Used for static images.
 
 cv2.waitKey(1)
